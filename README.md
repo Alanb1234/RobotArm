@@ -1,2 +1,2 @@
-# RobotArm
-Robot Arm forward and inverse kinematics
+# Forward and Inverse kinematics using robot arm
+
